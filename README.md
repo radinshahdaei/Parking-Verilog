@@ -5,12 +5,12 @@ This Verilog project simulates a comprehensive parking management system for a u
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Tools and Technologies](#tools-and-technologies)
+- [Tools](#tools-and-technologies)
 - [Module Parameters](#module-parameters)
 - [Module Ports](#module-ports)
 - [Testbench](#testbench)
-- [Synthesis and Timing Analysis](#synthesis-and-timing-analysis)
-- [Comprehensive Documentation](#comprehensive-documentation)
+- [Timing Analysis](#synthesis-and-timing-analysis)
+- [Documentation](#comprehensive-documentation)
 - [Usage](#usage)
 
 ## Overview
