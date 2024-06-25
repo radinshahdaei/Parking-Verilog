@@ -92,4 +92,4 @@ The project is thoroughly documented to ensure clarity and ease of understanding
 
 ## Authors
 
-Radin Shahdaei
+Radin Shahdaei, CE student at SUT
