@@ -5,12 +5,12 @@ This Verilog project simulates a comprehensive parking management system for a u
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Tools](#tools-and-technologies)
+- [Tools](#tools)
 - [Module Parameters](#module-parameters)
 - [Module Ports](#module-ports)
 - [Testbench](#testbench)
-- [Timing Analysis](#synthesis-and-timing-analysis)
-- [Documentation](#comprehensive-documentation)
+- [Timing Analysis](#timing-analysis)
+- [Documentation](#documentation)
 - [Usage](#usage)
 
 ## Overview
@@ -21,7 +21,7 @@ The `parking` module is designed to efficiently manage university parking spaces
 - **Dynamic Adjustment:** Adjusts parking allocation based on the time of day.
 - **Detailed Outputs:** Provides real-time counts of parked cars and available spaces.
 
-## Tools and Technologies
+## Tools
 - **Verilog:** Hardware Description Language used for designing the module.
 - **Icarus Verilog (Iverilog):** Used for simulation and testing.
 - **Quartus Prime:** Used for synthesis and timing analysis on the ARIA II GX FPGA.
@@ -62,7 +62,7 @@ The provided testbench (`testbench`) thoroughly tests the `parking` module, ensu
 ## Simulation Results
 The simulation results demonstrate the correct functionality of the module. Here’s an excerpt of the simulation output:
 
-## Synthesis and Timing Analysis
+## Timing Analysis
 The module was synthesized using Quartus Prime on the ARIA II GX FPGA. Timing analysis provided the following results:
 
 - **Maximum Frequency (Fmax):** [157.34 MHz]
@@ -71,7 +71,7 @@ The module was synthesized using Quartus Prime on the ARIA II GX FPGA. Timing an
 
 These results ensure the design operates reliably at the intended clock speeds.
 
-## Comprehensive Documentation
+## Documentation
 The project is thoroughly documented to ensure clarity and ease of understanding. All design decisions, parameter explanations, and operational descriptions are detailed in the `Documentation.pdf` file included in the repository. This document serves as an extensive guide for anyone looking to understand, modify, or extend the project.
 
 ### Contents of Documentation.pdf:
