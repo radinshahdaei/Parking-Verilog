@@ -1,7 +1,5 @@
 # University Parking Management System
 
-![Parking Management](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.t-systems.com%2Fde%2Fde%2Finsights%2Fnewsroom%2Fexperten-blogs%2Fparkplatzsuche-digitalisieren-und-vereinfachen-487328&psig=AOvVaw2p-sud9xi0kuvbHiNIXMIL&ust=1719412768319000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKiV1uv99oYDFQAAAAAdAAAAABAE)
-
 This Verilog project simulates a comprehensive parking management system for a university. The system prioritizes parking spaces for faculty and staff, dynamically adjusts based on the hour of the day, and provides clear outputs for the number of parked cars and available spaces.
 
 ## Table of Contents
@@ -75,7 +73,7 @@ These results ensure the design operates reliably at the intended clock speeds.
 ## Usage
 1. **Simulation:** Use Icarus Verilog for simulating the design.
    ```sh
-   iverilog -o parking_tb parking_tb.v
-   vvp parking_tb
+   iverilog -o tb testbench.v
+   vvp tb
 
 2. **Synthesis:** Use Quartus Prime to synthesize the design for the ARIA II GX FPGA.
