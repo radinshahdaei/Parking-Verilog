@@ -12,6 +12,7 @@ This Verilog project simulates a comprehensive parking management system for a u
 - [Timing Analysis](#timing-analysis)
 - [Documentation](#documentation)
 - [Usage](#usage)
+- [Authors](#authors)
 
 ## Overview
 The `parking` module is designed to efficiently manage university parking spaces. It dynamically adjusts the allocation of spaces for university and non-university cars based on the current hour, ensuring optimal usage of available parking.
@@ -88,3 +89,7 @@ The project is thoroughly documented to ensure clarity and ease of understanding
    vvp tb
 
 2. **Synthesis:** Use Quartus Prime to synthesize the design for the ARIA II GX FPGA.
+
+## Authors
+
+Radin Shahdaei
