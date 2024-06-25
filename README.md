@@ -48,7 +48,7 @@ The `parking` module is designed to efficiently manage university parking spaces
 - `is_vacated_space`: Indicates if there are vacant non-university spaces.
 
 ## Testbench
-The provided testbench (`parking_tb`) thoroughly tests the `parking` module, ensuring it operates correctly under various conditions.
+The provided testbench (`testbench`) thoroughly tests the `parking` module, ensuring it operates correctly under various conditions.
 
 ### Test Scenarios
 1. Initial state
