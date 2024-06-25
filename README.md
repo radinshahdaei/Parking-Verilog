@@ -1,5 +1,7 @@
 # University Parking Management System
 
+![image](https://github.com/radinshahdaei/Parking-Verilog/assets/115386798/de932ac1-aafa-452f-9ea8-9a306a0e27b4)
+
 This Verilog project simulates a comprehensive parking management system for a university. The system prioritizes parking spaces for faculty and staff, dynamically adjusts based on the hour of the day, and provides clear outputs for the number of parked cars and available spaces.
 
 ## Table of Contents
