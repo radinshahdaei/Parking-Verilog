@@ -66,7 +66,7 @@ The provided testbench (`testbench`) thoroughly tests the `parking` module, ensu
 The simulation results demonstrate the correct functionality of the module. Here’s an excerpt of the simulation output:
 
 ## Timing Analysis
-The module was synthesized using Quartus Prime on the ARIA II GX FPGA. Timing analysis provided the following results:
+The module was synthesized using Quartus Prime on the Cyclone II FPGA. Timing analysis provided the following results:
 
 - **Maximum Frequency (Fmax):** [23.45 MHz]
 - **Setup Time:** [20.818 ns]
