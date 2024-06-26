@@ -27,8 +27,8 @@ The `parking` module is designed to efficiently manage university parking spaces
 
 ## Tools
 - **Verilog:** Hardware Description Language used for designing the module.
-- **Icarus Verilog (Iverilog):** Used for simulation and testing. [Github Page](https://github.com/steveicarus/iverilog)
-- **Quartus Prime:** Used for synthesis and timing analysis on the ARIA II GX FPGA. [Website](https://www.intel.de/content/www/de/de/products/details/fpga/development-tools/quartus-prime.html)
+- **Icarus Verilog ([Iverilog](https://github.com/steveicarus/iverilog)):** Used for simulation and testing.
+- **[Quartus Prime](https://github.com/steveicarus/iverilog):** Used for synthesis and timing analysis on the Cyclone II FPGA.(https://www.intel.de/content/www/de/de/products/details/fpga/development-tools/quartus-prime.html)
 
 ## Module Parameters
 - `init_uni_space`: Initial number of spaces allocated to university cars (default: 500).
