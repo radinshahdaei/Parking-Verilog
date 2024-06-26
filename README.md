@@ -68,9 +68,9 @@ The simulation results demonstrate the correct functionality of the module. Here
 ## Timing Analysis
 The module was synthesized using Quartus Prime on the ARIA II GX FPGA. Timing analysis provided the following results:
 
-- **Maximum Frequency (Fmax):** [157.34 MHz]
-- **Setup Time:** [5.043 ns]
-- **Hold Time:** [0.345 ns]
+- **Maximum Frequency (Fmax):** [23.45 MHz]
+- **Setup Time:** [20.818 ns]
+- **Hold Time:** [6.425 ns]
 
 These results ensure the design operates reliably at the intended clock speeds.
 
